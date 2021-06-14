@@ -16,7 +16,7 @@ This list will be updated throughout time to stay relevant and on point. If you'
 
  4. WTF Is GitOps? - [ An ebook](https://info.container-solutions.com/what-is-gitops-ebook), providing all the basic information you need about GitOps. 
 
- 5. [GitOps - DevOps for infrastructure automation](https://microtica.com/blog/gitops-devops-for-infrastructure-automation/)
+ 5. [GitOps - DevOps for infrastructure automation](https://microtica.com/blog/gitops-devops-for-infrastructure-automation/?utm_source=github&utm_medium=referral_link&utm_campaign=gitops)
 
  6. [What Is GitOps and Why It Might Be The Next Big Thing for DevOps](https://thenewstack.io/what-is-gitops-and-why-it-might-be-the-next-big-thing-for-devops/)
     
