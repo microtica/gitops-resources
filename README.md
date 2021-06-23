@@ -14,28 +14,26 @@ This list will be updated throughout time to stay relevant and on point. If you'
 
  3. A [blog by Container Solutions](https://blog.container-solutions.com/), where you can find many different resources about various topics related to GitOps.
 
- 4. WTF Is GitOps? - [ An ebook](https://info.container-solutions.com/what-is-gitops-ebook), providing all the basic information you need about GitOps. 
+ 4. [GitOps - DevOps for infrastructure automation](https://microtica.com/blog/gitops-devops-for-infrastructure-automation/?utm_source=github&utm_medium=referral_link&utm_campaign=gitops)
 
- 5. [GitOps - DevOps for infrastructure automation](https://microtica.com/blog/gitops-devops-for-infrastructure-automation/?utm_source=github&utm_medium=referral_link&utm_campaign=gitops)
-
- 6. [What Is GitOps and Why It Might Be The Next Big Thing for DevOps](https://thenewstack.io/what-is-gitops-and-why-it-might-be-the-next-big-thing-for-devops/)
+ 5. [What Is GitOps and Why It Might Be The Next Big Thing for DevOps](https://thenewstack.io/what-is-gitops-and-why-it-might-be-the-next-big-thing-for-devops/)
     
- 7. [The Next Step after DevOps and GitOps Is Cloud Engineering, Pulumi Says](https://thenewstack.io/the-next-step-after-devops-and-gitops-is-cloud-engineering-pulumi-says/)
+ 6. [The Next Step after DevOps and GitOps Is Cloud Engineering, Pulumi Says](https://thenewstack.io/the-next-step-after-devops-and-gitops-is-cloud-engineering-pulumi-says/)
 
- 8. [How to put GitOps to work for your software delivery](https://techbeacon.com/app-dev-testing/how-put-gitops-work-your-software-delivery)
+ 7. [How to put GitOps to work for your software delivery](https://techbeacon.com/app-dev-testing/how-put-gitops-work-your-software-delivery)
 
- 9. [Why Gitops isn’t ready for the mainstream (yet)](https://www.infoworld.com/article/3617110/why-gitops-isnt-ready-for-the-mainstream-yet.html)
+ 8. [Why Gitops isn’t ready for the mainstream (yet)](https://www.infoworld.com/article/3617110/why-gitops-isnt-ready-for-the-mainstream-yet.html)
 
- 10. [A vision for GitOps 2.0](https://codefresh.io/devops/vision-gitops-2-0/)
+ 9. [A vision for GitOps 2.0](https://codefresh.io/devops/vision-gitops-2-0/)
 
- 11. [30+ Tools List for GitOps](https://dzone.com/articles/30-tools-list-for-gitops)
+ 10. [30+ Tools List for GitOps](https://dzone.com/articles/30-tools-list-for-gitops)
 
- 12. [GitOps: The Bad and the Ugly](https://blog.container-solutions.com/gitops-limitations)
+ 11. [GitOps: The Bad and the Ugly](https://blog.container-solutions.com/gitops-limitations)
     
     
 ## Videos
 
- 1. This is [a great Q&A session](https://www.youtube.com/watch?v=PJybhIAZpHo) where you can learn a lot about cloud-native CI/CD using GitOps.
+1. This is [a great Q&A session](https://www.youtube.com/watch?v=PJybhIAZpHo) where you can learn a lot about cloud-native CI/CD using GitOps.
 
 2. The [foundations of GitOps](https://www.youtube.com/watch?v=Usb9iUphT6Y) and how you can use it to deploy infrastructure to Kubernetes cluster.
 
@@ -43,7 +41,9 @@ This list will be updated throughout time to stay relevant and on point. If you'
 
 4. A [walk through a journey into Kubernetes](https://www.youtube.com/watch?v=yIAa5wHsfw4) by Kelsey Hightower. The video also involves an introduction to GitOps and how it fits into the big picture of cloud infrastructure.
 
-5. A [talk about the principles of GitOps](https://www.youtube.com/watch?v=Mr_mbwsRDBI), its contributions to productivity, the need to involve security from the start, etc, by Paul Curtis, Principal Solutions Architect at Weaveworks.
+5. A [talk about the principles of GitOps](https://www.youtube.com/watch?v=Mr_mbwsRDBI), its contributions to productivity, the need to involve security from the start, etc, by Paul Curtis, Principal Solutions Architect at Weaveworks.\
+ 
+6. [TechWorld with Nana](https://www.youtube.com/watch?v=f5EpcWp0THw) explains What is GitOps, How GitOps works and Why it's so useful. 
 
 
 ## Podcasts 
@@ -67,6 +67,12 @@ This list will be updated throughout time to stay relevant and on point. If you'
  2. [GitOps Summit](https://events.linuxfoundation.org/gitops-summit/)
  3. [GitOps Con](https://hopin.com/events/gitops-con) 
 
+
+## Books 
+
+1. [GitOps and Kubernetes](https://livebook.manning.com/book/gitops-and-kubernetes/) by Billy Yuen, Alexander Matyushentsev, Todd Ekenstam, and Jesse Suen
+
+2. WTF Is GitOps? - [An ebook](https://info.container-solutions.com/what-is-gitops-ebook), providing all the basic information you need about GitOps. 
   
 
 ## Bonus: Communities
