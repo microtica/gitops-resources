@@ -77,6 +77,9 @@ This list will be updated throughout time to stay relevant and on point. If you'
 ## Courses 
 
 1. [Introduction to GitOps (LFS169)](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-gitops-lfs169)
+2. [Introduction to GitOps](https://cloudacademy.com/learning-paths/gitops-1-1005/)
+
+
 ## Bonus: Communities
 
 -   [GitOps Working Group](https://github.com/gitops-working-group/gitops-working-group)
