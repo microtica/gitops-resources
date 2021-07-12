@@ -74,7 +74,9 @@ This list will be updated throughout time to stay relevant and on point. If you'
 
 2. WTF Is GitOps? - [An ebook](https://info.container-solutions.com/what-is-gitops-ebook), providing all the basic information you need about GitOps. 
   
+## Courses 
 
+1. [Introduction to GitOps (LFS169)](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-gitops-lfs169)
 ## Bonus: Communities
 
 -   [GitOps Working Group](https://github.com/gitops-working-group/gitops-working-group)
