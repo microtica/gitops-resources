@@ -57,6 +57,8 @@ This list will be updated throughout time to stay relevant and on point. If you'
 -   [Coding Over Cocktails](https://www.torocloud.com/blog/defining-gitops-making-git-a-single-source-of-truth) - This specific episode is with Viktor Farcic, one of the greatest experts in the field, talking about Docker and GitOps.
     
 -   [The New Stack Podcast](https://open.spotify.com/show/2nj1mpDb9jxHxi9vjZvDdk?si=B8RxcZvhQkG6uSlQq95tdA&dl_branch=1&nd=1) - This podcast covers topics like observability, software planning, deployment, GitOps practices, etc.
+
+-   [The "Ship It!" Podcast](https://changelog.com/shipit) - A podcast about getting your best ideas into the world and seeing what happens. We talk about code, ops, infrastructure, and the people that make it happen.
   
 
 ## Events
