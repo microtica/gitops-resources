@@ -80,6 +80,7 @@ This list will be updated throughout time to stay relevant and on point. If you'
 
 1. [Introduction to GitOps (LFS169)](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-gitops-lfs169)
 2. [Introduction to GitOps](https://cloudacademy.com/learning-paths/gitops-1-1005/)
+3. [Hands-On GitOps](https://acloudguru.com/course/hands-on-gitops?utm_source=github&utm_medium=microtica&utm_campaign=gitops_resources)
 
 
 ## Bonus: Communities
