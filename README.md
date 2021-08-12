@@ -31,6 +31,9 @@ This list will be updated throughout time to stay relevant and on point. If you'
  11. [GitOps: The Bad and the Ugly](https://blog.container-solutions.com/gitops-limitations)
 
  12. [Why developers need a self-service platform – and how to provide one](https://www.weave.works/blog/why-developers-need-a-self-service-platform?utm_campaign=gitops_resources&utm_medium=microtica&utm_source=github)
+ 
+ 13. [A ‘Hello World’ GitOps Example Walkthrough](https://zwischenzugs.com/2021/07/31/a-hello-world-gitops-example-walkthrough?utm_campaign=gitops_resources&utm_medium=microtica&utm_source=github)
+ 
     
     
 ## Videos
