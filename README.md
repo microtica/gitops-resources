@@ -34,6 +34,8 @@ This list will be updated throughout time to stay relevant and on point. If you'
  
  13. [A ‘Hello World’ GitOps Example Walkthrough](https://zwischenzugs.com/2021/07/31/a-hello-world-gitops-example-walkthrough?utm_campaign=gitops_resources&utm_medium=microtica&utm_source=github)
  
+ 14. [Kubernetes GitOps Tools](https://itnext.io/kubernetes-gitops-tools-cf0247eb5368?utm_campaign=gitops_resources&utm_medium=microtica&utm_source=github)
+ 
     
     
 ## Videos
